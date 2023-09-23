@@ -27,4 +27,4 @@
 
 ##
 
-![Snake animation](https://github.com/rosahaggi)
+![snake gif](https://github.com/rosahaggi/rosahaggi/blob/output/github-contribution-grid-snake.svg)
