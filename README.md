@@ -1,8 +1,7 @@
 ## Olá, eu sou a Rosa Haggi!
 
-- 🌱 Estou aprendendo Java e C++.
-- 📫 Estudo atualmente Desenvolvimento de Sistemas na Etec.
-- 👩‍💻Trabalho com Kotlin.
+- 🌱 Estou aprendendo NodeJs.
+- 📫 Formada Desenvolvimento de Sistemas na Etec e cursando Engenharia de Software.
 - ⚡ Fato curioso sobre mim: Aprendi inglês de forma auto didata.
 
 ##
