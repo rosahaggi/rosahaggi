@@ -31,4 +31,4 @@
 
 ##
 
-![snake gif](https://github.com/rosahaggi/rosahaggi/blob/output/github-contribution-grid-snake.svg)
+![snake gif]((https://raw.githubusercontent.com/math97/math97/dd13ac8e706f9e41a946f1484761a29d51e6e6ce/github-contribution-grid-snake.svg)
